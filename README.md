@@ -1,3 +1,7 @@
+# eslint-bug-ignores
+
+Reproduceable eslint bug with "ignores" key in new configuration file
+
 ## WHAT DID YOU DO
 
 <details>
